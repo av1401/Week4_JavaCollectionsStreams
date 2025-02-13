@@ -1,0 +1,10 @@
+C:\Users\abhishek vishwakarma\Desktop\Capgemini\Week4_JavaCollectionsStreams>git push origin  Day3_JavaStreams
+Enumerating objects: 16, done.
+Counting objects: 100% (16/16), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (10/10), 1.68 KiB | 861.00 KiB/s, done.
+Total 10 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/av1401/Week4_JavaCollectionsStreams
+   ba7ffbc..03645c0  Day3_JavaStreams -> Day3_JavaStreams
